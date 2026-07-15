@@ -1,16 +1,29 @@
-## Hi there 👋
+### Aloha 🌺 – ich bin Arwed Grön von GROENIE.AI
 
-<!--
-**arwedgroen/arwedgroen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Navigator im Meer der KI – Business-Optimierung mit KI*
 
-Here are some ideas to get you started:
+Aloha im Herzen. Norddeutsche Qualität in der Umsetzung.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+GROENIE.AI begleitet kleine und mittelständische Unternehmen, Coaches, Therapeuten, Gastronomie- und Ferienhausbetriebe bei der digitalen Transformation – mit KI-Lösungen, die entlasten statt verkomplizieren.
+
+**🔧 Leistungen**
+• KI-Beratung & KI-Implementierung
+• Automatisierung mit n8n
+• Custom GPTs & KI-Assistenten
+• Website-Chatbots & Telefon-KI (u. a. mit fonio.ai)
+• WordPress-Webseiten (Hostinger, Worldsoft)
+• Google Business Profile, CRM- & Kalendersysteme
+• LinkedIn-Content, Ghostwriting & Carousels
+
+**🧭 Tech-Stack**
+n8n · fonio.ai · cal.com · HubSpot · Google Workspace · WordPress · ChatGPT / Custom GPTs · Creatomate
+
+**💛 Werte**
+Ehrlichkeit, Menschlichkeit, Vertrauen, Klarheit, Verlässlichkeit, Respekt, Achtsamkeit – Aloha als Haltung.
+
+**📍 Standort:** Schleswig-Holstein / Kiel
+**🌐 Website:** [groenie.ai](https://groenie.ai)
+**💼 LinkedIn:** [in/arwedgroen](https://linkedin.com/in/arwedgroen)
+**🐦 X (Twitter):** [@GROENIE_AI](https://twitter.com/GROENIE_AI)
+
+*Always with Aloha 🤙*
